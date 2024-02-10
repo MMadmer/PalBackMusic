@@ -1,6 +1,8 @@
 # PalBackMusic
 Dynamic background music modification for Palworld game.
-Music deleted from sources! To work you need to add your melodies in M_Day_BackgroundCue and M_Night_BackgroundCue.
+Music deleted from sources!
+Install as a plugin for UE(music removed).
+To work you need to add your melodies in M_Day_BackgroundCue and M_Night_BackgroundCue.
 
 Download mod: https://drive.google.com/file/d/1YRu7TgOgUrsxdzFf964jfbxujBnnHyJ0/view?usp=sharing
 
